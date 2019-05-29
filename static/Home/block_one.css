@@ -26,7 +26,7 @@
     font-size: 24px;
 }
 #headerwrap1{
-    padding-top: 1.9%;
+    padding-top: 0.7%;
     width: 18%;
     height: 18%;
 }
@@ -91,4 +91,48 @@
     font-size: 45px;
     font-weight: bolder;
     text-transform: uppercase;
+}
+.x h4{
+    padding-top: 6%;
+    text-align: center;
+    font-size: 28px;
+    color: white;
+}
+.row{
+    padding-top: 3.5%;
+}
+.rectangle_block1 {
+    width: 300px;!important;
+    height: 400px;
+}
+.rectangle_block2 {
+    width: 300px;
+    height: 400px;
+}
+.rectangle_block3 {
+    width: 300px;
+    height: 400px;
+}
+.blocks{
+    width: 250px;
+    height: 400px;
+}
+.Python_block{
+    background: #006699;
+}
+.Java_block{
+    background: #109338;
+}
+.Html{
+    background: #FF9945;
+}
+#L_img{
+    padding-top: 5%;
+    display:block;
+	margin:auto;
+    width: 50%;
+    height: auto;
+}
+.col{
+    padding-left: 100px;!important;
 }
