@@ -98,6 +98,16 @@
     font-size: 28px;
     color: white;
 }
+.x h5{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+.x h6{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
 .row{
     padding-top: 3.5%;
 }
@@ -135,4 +145,8 @@
 }
 .col{
     padding-left: 100px;!important;
+}
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
 }
